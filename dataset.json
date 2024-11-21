@@ -1,0 +1,42 @@
+{
+
+  "EMAIL"	: "eugenenuada061@gmail.com",
+  "PW"		: "Raygun890",
+  "EMAIL_INV1"	: "invalid_1@gmail.com",
+  "PW_INV1"		: "Raygun890",
+  "EMAIL_INV2"	: "eugenenuada061@gmail.com",
+  "PW_INV2"		: "invalid",
+  "ECN"     : "0210300229521N9",
+
+  "BUSINESS_NAME_VALUE" : "TELEPERFORMANCE PHILIPPINES",
+  "BUSINESS_ADDRESS_VALUE" : "VISTA HUB VISTA MALL MOLINO",
+  "TIN_VALUE" : "4639744022",
+
+  "Test1" : 1000,
+
+  "Specify_Main_eco" : "Sample Main Economic",
+  "Specify_Other_income": "Sample Other income",
+  "Description" : "Sample Description",
+  "Remarks": "Sample Remark",
+  "Name" : "Sample Name",
+  "Designation": "Sample Designation",
+  "Contact" : "093177777777",
+  "Email" : "sample@gmail.com",
+  "Website" : "Sample_website.com",
+  "Search_value" : "BALANGA WATER DISTRICT",
+
+
+  "Employee_number" : "123445567",
+  "Last_name" : "Sample_Lastname",
+  "First_name" : "Sample_Firstname",
+  "Middle_name" : "Sample_Middlename",
+
+  "ECN_QOFE" :"0124213756515S9",
+  "PW_QOFE" :"LINheK9v",
+
+  "EMAIL_lbl" : "Email Address:",
+  "PASSWORD_lbl" : "Password:",
+  "Search" : "0730200000696J1"
+
+
+}
