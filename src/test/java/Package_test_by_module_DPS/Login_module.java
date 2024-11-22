@@ -176,7 +176,6 @@ public  class Login_module {
         public void test_button_OK () {
             Home_module_elements home = new Home_module_elements(driver);
             home.btn_OK.click();
-          System.out.println("hello");
         }
 
 

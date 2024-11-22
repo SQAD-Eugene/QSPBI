@@ -125,16 +125,6 @@ public class About_QSPBI_module {
 
     }
 
-
-
-
-
-
-
-
-
-
-
 //    @Test(priority = 7, testName = "Click logout")
 //    public void test_button_logout() throws InterruptedException {
 //
