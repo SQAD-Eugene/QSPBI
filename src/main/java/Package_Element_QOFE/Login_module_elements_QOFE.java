@@ -24,9 +24,6 @@ public class Login_module_elements_QOFE {
     @FindBy(linkText = "Logout")
     public static WebElement btn_logout;
 
-    @FindBy(linkText = "Logout1")
-    public static WebElement btn_logout1;
-
     public Login_module_elements_QOFE (WebDriver driver) {
         this.driver = driver;
         PageFactory.initElements(driver, this);
