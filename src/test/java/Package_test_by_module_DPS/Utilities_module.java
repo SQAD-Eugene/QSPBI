@@ -83,7 +83,7 @@ public class Utilities_module {
         eWait.until(ExpectedConditions.elementToBeClickable(home.dropdown_Year));
 
         Select Yr = new Select(home.dropdown_Year);
-        Yr.selectByIndex(1);
+        Yr.selectByIndex(3);
     }
 
     @Test(priority = 5, testName = "(Configuration) - Verify functionality of Quarter dropdown box")

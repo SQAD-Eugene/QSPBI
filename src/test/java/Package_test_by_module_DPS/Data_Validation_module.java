@@ -85,7 +85,7 @@ public class Data_Validation_module {
         eWait.until(ExpectedConditions.visibilityOfAllElements(home.dropdown_Year));
 
         Select Yr = new Select(home.dropdown_Year);
-        Yr.selectByIndex(2);
+        Yr.selectByIndex(4);
     }
 
     @Test(priority = 5, testName = "Select Quarter")

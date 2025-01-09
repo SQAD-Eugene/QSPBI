@@ -88,7 +88,7 @@ public class File_Maitenance_module {
         eWait.until(ExpectedConditions.visibilityOfAllElements(home.dropdown_Year));
 
         Select Yr = new Select(home.dropdown_Year);
-        Yr.selectByIndex(1);
+        Yr.selectByIndex(2);
     }
 
     @Test(priority = 5, testName = "Select Quarter")
